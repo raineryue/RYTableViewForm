@@ -101,6 +101,7 @@
 		D53D8D5C1FD3F882007A9C45 /* RYTableViewForm */ = {
 			isa = PBXGroup;
 			children = (
+				D53D8D8F1FD4041C007A9C45 /* RYTableViewForm */,
 				D53D8D5D1FD3F882007A9C45 /* AppDelegate.h */,
 				D53D8D5E1FD3F882007A9C45 /* AppDelegate.m */,
 				D53D8D601FD3F882007A9C45 /* ViewController.h */,
@@ -130,6 +131,13 @@
 				D53D8D831FD3F882007A9C45 /* Info.plist */,
 			);
 			path = RYTableViewFormUITests;
+			sourceTree = "<group>";
+		};
+		D53D8D8F1FD4041C007A9C45 /* RYTableViewForm */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = RYTableViewForm;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
